@@ -1,0 +1,22 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    margin: 2rem auto;
+    width: 100%;
+    display: block;
+}
+
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+}
